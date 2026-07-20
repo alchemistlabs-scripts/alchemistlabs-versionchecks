@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initial release of AlchemistLabs VIPs.",
+    "Support for ESX Legacy and QBCore, including multicharacter servers.",
+    "Configurable VIP plans with duration, salary, coins, welcome benefits, and additional inventory weight.",
+    "Secure package queue for online and offline Tebex purchases, manual claims, and chargebacks.",
+    "Package rewards supporting money, accounts, coins, items, vehicles, and properties.",
+    "Free or Tebex-purchased Daily Rewards with permanent or monthly access and personal or calendar-month progression.",
+    "Monthly Battle Pass with free and Premium tracks, XP, levels, daily and weekly missions, and automatic resets.",
+    "Built-in missions for logins, playtime, and distance driven, with support for custom missions.",
+    "Mansion and penthouse system with ownership, stashes, outfits, door locks, and configurable garages.",
+    "Custom NUI menu with a complete ox_lib menu alternative.",
+    "Administration menu, management commands, and configurable Discord logs.",
+    "Editable integrations for target, door locks, appearance, garages, and vehicle keys.",
+    "Automatic creation of all required database tables and columns.",
+    "Server-side validation, atomic claims, and protection against duplicate redemptions and malicious event calls.",
+    "Installation diagnostics and documentation for configuration, integrations, and custom mission creation."
+  ]
+}
