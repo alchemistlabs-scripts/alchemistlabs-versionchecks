@@ -5,6 +5,10 @@
     "Insertion of portuguese translations",
     "Fixed a visual bug in vip duration",
     "Fixed a bug that multiplied vip time",
-    "Made 2 different .sql files for esx and qb"
+    "Made 2 different .sql files for esx and qb",
+    "Made auto sql optional, making it false on default",
+    "Made all inventory funcions editable",
+    "Made all doorlock functions available",
+    "Configs changed because of new changes"
   ]
 }
