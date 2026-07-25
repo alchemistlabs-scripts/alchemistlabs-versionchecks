@@ -1,8 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": [
-    "Commercial version finalized.",
-    "Ajustments in translations",
-    "Migration deprecation"
+    "All translations are now through ox_lib locales",
+    "Insertion of portuguese translations",
+    "Fixed a visual bug in vip duration",
+    "Fixed a bug that multiplied vip time",
+    "Made 2 different .sql files for esx and qb"
   ]
 }
