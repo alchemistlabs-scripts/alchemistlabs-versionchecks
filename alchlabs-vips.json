@@ -1,14 +1,15 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "changelog": [
-    "All translations are now through ox_lib locales",
-    "Insertion of portuguese translations",
-    "Fixed a visual bug in vip duration",
-    "Fixed a bug that multiplied vip time",
-    "Made 2 different .sql files for esx and qb",
-    "Made auto sql optional, making it false on default",
-    "Made all inventory funcions editable",
-    "Made all doorlock functions available",
-    "Configs changed because of new changes"
+    "Updates all framework access to use alchlabs-core",
+    "Moved custom notifications to alchalbas-core",
+    "Renamed and expanded the VIP Houses configuration to config/config_houses.lua",
+    "Improved QBCore account, identifier, garage and multicharacter compatibility",
+    "Updated offline tebex purchases to use the pending reward queue",
+    "Improved package, vehicle, Daily Rewards and Battle Pass claim recovery",
+    "Updated diagnostics for framework, database, inventory, package, and integration validation",
+    "Updated the documentation structure and installation requirements",
+    "Improved claim security and simultaneous claim protection",
+    "Added mysql-async support"
   ]
 }
