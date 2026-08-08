@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initiated transition form all scripts to alchlabs-core"
+  ]
+}
